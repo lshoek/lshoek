@@ -1,2 +1,1 @@
-# lshoek
 ![plant](plant.jpg)
